@@ -67,7 +67,7 @@ public class NotaFragment extends Fragment {
 
             notaList = new ArrayList<>();
             notaList.add(new Nota("Trabajo Académico:","Las notas del trabajo académico serán  revisadas e ingresadas el día 16 de Julio.", true, android.R.color.holo_blue_light));
-            notaList.add(new Nota("Examen Final", "Estudiar para el Examen Final: Caso: Notas Listas, es una réplica de la UC4",false, android.R.color.holo_green_light));
+            notaList.add(new Nota("Examen Final", "Estudiar para elExamen Final: Caso: Notas Listas, es una réplica de la UC4",false, android.R.color.holo_green_light));
             notaList.add(new Nota("Resultado de Examen Final","La Revisión del examen final se revisarán durante la sesión de clases y el resultado será publicado en los próximos días, especificamente: 22/07/24 - 26/07/24  Examen final ", true, android.R.color.holo_orange_light));
             notaList.add(new Nota(" Examen Sustitutorio:","Examen Sustitutorio planificado para el día 24 de julio del 2024. Asistir puntualmente a todos los que se van a presentar.", true, android.R.color.holo_blue_light));
             notaList.add(new Nota("Fiestas Patrias:","Desfiles militares, ferias gastronómicas y recorridos turísticos se abren para celebrar en este año 2024. ¡Felíz día del Perú!", true, android.R.color.holo_blue_light));
